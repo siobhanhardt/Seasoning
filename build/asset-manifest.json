@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Seasoning/static/css/main.c4edfaf8.chunk.css",
+    "main.js": "/Seasoning/static/js/main.6bf3aef8.chunk.js",
+    "main.js.map": "/Seasoning/static/js/main.6bf3aef8.chunk.js.map",
+    "runtime-main.js": "/Seasoning/static/js/runtime-main.d4cc435c.js",
+    "runtime-main.js.map": "/Seasoning/static/js/runtime-main.d4cc435c.js.map",
+    "static/js/2.753926dc.chunk.js": "/Seasoning/static/js/2.753926dc.chunk.js",
+    "static/js/2.753926dc.chunk.js.map": "/Seasoning/static/js/2.753926dc.chunk.js.map",
+    "index.html": "/Seasoning/index.html",
+    "static/css/main.c4edfaf8.chunk.css.map": "/Seasoning/static/css/main.c4edfaf8.chunk.css.map",
+    "static/js/2.753926dc.chunk.js.LICENSE.txt": "/Seasoning/static/js/2.753926dc.chunk.js.LICENSE.txt",
+    "static/media/heart.0bcbe324.png": "/Seasoning/static/media/heart.0bcbe324.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4cc435c.js",
+    "static/js/2.753926dc.chunk.js",
+    "static/css/main.c4edfaf8.chunk.css",
+    "static/js/main.6bf3aef8.chunk.js"
+  ]
+}
