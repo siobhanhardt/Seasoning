@@ -2,6 +2,8 @@
   font-family: "Helvetica";
   text-align: left;
   font-size: 14px;
+  width: 540px;
+  height: 960px;
 }
 h3 {
   text-align: center;
@@ -100,7 +102,7 @@ added in a hover tranform to expand the image out slightly when hovered
   width: 94%;
 }
 .recipeCard {
-  width: 40%;
+  width: 50%;
 }
 .recipeTable {
   border: 0px solid black;
@@ -165,7 +167,7 @@ added padding on most of the classes but especially here so the image hover does
   right: 0;
   background-color: rgb(221, 221, 221);
   height: 90px;
-  width: 100%;
+  width: 560px;
 }
 .hbtn-svg {
   border: none !important;
@@ -209,7 +211,7 @@ styling for the page to order and space into columns
   text-align: center;
 }
 .singleRecipe {
-  width: 50%;
+  width: 100%;
 }
 .ingredientsTitle {
   padding-left: 10px;
